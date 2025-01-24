@@ -136,6 +136,8 @@ const SetAvatar = () => {
     // await console.log(container);
   }, []);
 
+  console.log(selectedSprite)
+
   return (
     <>
       <div style={{ position: "relative", overflow: "hidden" }}>
