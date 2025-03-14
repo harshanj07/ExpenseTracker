@@ -1,8 +1,0 @@
-POST https://expense-tracker-app-main-wrb3.vercel.app/api/auth/login
-Content-Type: application/json
-
-{
-    "email":"rahul",
-    "password":"rahul@28"
-
-}
