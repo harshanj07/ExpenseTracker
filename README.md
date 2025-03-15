@@ -155,14 +155,10 @@ create config folder and add config.env file in it and all all env variables the
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-nine-wine-90.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshan-j-700a84281/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Harshanj0710)
-[![Medium](https://img.shields.io/badge/medum-1DA1F2?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@priyanshumalaviya9210)
 
 ## Demo
 
 Insert gif or link to demo
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
